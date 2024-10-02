@@ -1,7 +1,5 @@
 # BandiView Vulnerability Report
 
----
-
 ## Vulnerability 1
 
 ---
