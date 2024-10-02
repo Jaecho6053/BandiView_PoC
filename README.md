@@ -1,8 +1,6 @@
 # BandiView Vulnerability Report
 
-## Vulnerability 1
-
----
+# Vulnerability 1
 
 ## Vulnerability Overview
 
@@ -213,9 +211,7 @@
 
 - **Mitigation:** Strengthen exception handling in the image loading function
 
-## Vulnerability 2
-
----
+# Vulnerability 2
 
 ## Vulnerability Overview
 
@@ -476,9 +472,7 @@
 
 - **Mitigation:** Strengthen exception handling in the image loading function
 
-## Vulnerability 3
-
----
+# Vulnerability 3
 
 ## Vulnerability Overview
 
