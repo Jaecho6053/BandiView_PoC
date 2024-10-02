@@ -201,10 +201,6 @@
     ---------
     ```
     
-    Save the test case and change the extension to .jpg or .png, or drag and drop it into the running BandiView program.
-    
-    ![image.png](%E1%84%8D%E1%85%A1%E1%86%B7%E1%84%90%E1%85%A9%E1%86%BC%20113830f66e3d80bfbe98fe880865b109/image.png)
-    
     When analyzing the file using Microsoft's Windbg program, the same results were observed.
     
 
