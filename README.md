@@ -4,7 +4,7 @@
 
 ## Vulnerability Overview
 
-- **Summary:** A vulnerability occurs when loading specific files in BandiView (v7.05).
+- **Summary:** A vulnerability occurs when loading crafted JXR files in BandiView (v7.05).
 - **Manufacturer:** Bandisoft
 - **Software:** BandiView
 - **Version:** v7.05 (2024/7/15, BuildNo=26122)
@@ -215,7 +215,7 @@
 
 ## Vulnerability Overview
 
-- **Summary:** A vulnerability occurs when loading specific files in BandiView (v7.05).
+- **Summary:** A vulnerability occurs when loading crafted PSD files in BandiView (v7.05).
 - **Manufacturer:** Bandisoft
 - **Software:** BandiView
 - **Version:** v7.05 (2024/7/15, BuildNo=26122)
@@ -476,7 +476,7 @@
 
 ## Vulnerability Overview
 
-- **Summary:** A vulnerability occurs when loading specific files in BandiView (v7.05).
+- **Summary:** A vulnerability occurs when loading crafted PSD files in BandiView (v7.05).
 - **Manufacturer:** Bandisoft
 - **Software:** BandiView
 - **Version:** v7.05 (2024/7/15, BuildNo=26122)
