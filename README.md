@@ -739,3 +739,20 @@
 ---
 
 - **Mitigation:** Strengthen exception handling in the image loading function
+
+
+
+---
+
+### credit
+
+Jae Ho Cho
+
+Song Hyun Bae
+
+Jun Seo Bae
+
+Dong Ha Lee
+
+ref : https://www.bandisoft.com/bandiview/history/
+
